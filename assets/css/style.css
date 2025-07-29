@@ -179,10 +179,21 @@ img {
 /* standard styling start */
 .standards {
     padding: 60px 20px;
-    background-color: #f9f9f9;
     text-align: center;
+    position: relative;
 }
 
+.standards:before {
+    content: "";
+    position: absolute;
+    left: 100px;
+    bottom: 90px;
+    width: 86px;
+    height: 174px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(/assets/images/polygon.png);
+}
 .standards h2 {
     font-size: 55px;
     font-weight: 900;
