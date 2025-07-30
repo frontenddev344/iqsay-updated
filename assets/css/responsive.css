@@ -38,6 +38,9 @@
 }
 
 @media screen and (max-width:991px) {
+    .benefit img {
+        width: 98px;
+    }
 
     .alpha_one,
     .alpha_two {
@@ -88,7 +91,8 @@
     .standards h2 span {
         color: #4c4c4c;
     }
-    .standards h2  {
-       font-size: 32px;
+
+    .standards h2 {
+        font-size: 32px;
     }
 }
