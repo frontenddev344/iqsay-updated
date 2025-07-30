@@ -23,11 +23,25 @@
 }
 
 @media screen and (max-width:991px) {
+    .alpha_one {
+        width: 100%;
+    }
+
     .desktop_version {
         display: none;
     }
 
     .mobile_version {
         display: block;
+    }
+
+    section.iqsay.animated-section.mobile_version .container {
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .iqsay:after {
+        display: none;
     }
 }
