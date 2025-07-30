@@ -59,6 +59,15 @@
     .Higher-Level p {
         font-size: 18px;
     }
+
+    .conversion-section {
+        background: url("../images/conversionimg.png");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        position: relative;
+        padding: 60px 20px;
+    }
 }
 
 @media screen and (max-width:991px) {
