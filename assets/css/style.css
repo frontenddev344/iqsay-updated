@@ -232,8 +232,8 @@ img {
 }
 
 p.subheader {
-    margin-bottom: 32px;
-    font-weight: 700;
+    margin-bottom: 32px !important;
+    font-weight: 700 !important;
 }
 
 .standards p {
