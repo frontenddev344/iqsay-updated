@@ -593,7 +593,7 @@ section.Higher-Level {
     position: relative;
 }
 
-footer {
+footer.footer.desktop_version {
     background-image: url('../images/footerimg.png');
     background-repeat: no-repeat;
     background-size: contain;

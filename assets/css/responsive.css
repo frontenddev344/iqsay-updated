@@ -79,6 +79,11 @@
 }
 
 @media screen and (max-width:991px) {
+    footer.footer.mobile_version {
+    background: #4C4C4C;
+    color: #b7b7b7;
+    padding: 32px 0;
+}
     .conversion-column {
         margin-top: 0;
     }
