@@ -340,10 +340,14 @@
     .benefit {
         flex: unset;
     }
-    .benefit img,.icon_beta img,.audit-item img {
-    width: 78px;
-}
-/*
+
+    .benefit img,
+    .icon_beta img,
+    .audit-item img {
+        width: 78px;
+    }
+
+    /*
     .compliance-logos {
         grid-template-columns: 1fr;
         gap: 20px !important;
@@ -374,24 +378,33 @@
         font-size: 28px;
         line-height: normal;
     }
-.standards p {
 
-    line-height: 1.5;
-}
-.conversion-box img {
-    width: 86px;
+    .standards p {
 
-}
-.conversion-overlay h2,.beta_one h2,.Higher-Level h2,.why_work_beta p,.beta_one h2 {
-    line-height: normal;
-}
-.conversion-box p {
-    font-size: 14px;
-    color: #4C4C4C;
+        line-height: 1.5;
+    }
 
-    padding: 15px 20px 15px 0;
-    line-height: normal;
-}
+    .conversion-box img {
+        width: 86px;
+
+    }
+
+    .conversion-overlay h2,
+    .beta_one h2,
+    .Higher-Level h2,
+    .why_work_beta p,
+    .beta_one h2 {
+        line-height: normal;
+    }
+
+    .conversion-box p {
+        font-size: 14px;
+        color: #4C4C4C;
+
+        padding: 15px 20px 15px 0;
+        line-height: normal;
+    }
+
     .benefits {
         gap: 10px;
         margin-bottom: 0;
