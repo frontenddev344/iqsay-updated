@@ -623,7 +623,7 @@ header {
     background-size: contain;
     background-position: center;
     height: 100px;
-    width: 100%;
+    width: calc(100% - 26px);
     max-width: 1200px;
     margin: 0 auto;
 }
