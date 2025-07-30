@@ -374,4 +374,8 @@
         gap: 10px;
         margin-bottom: 0;
     }
+
+    .compliance-logos img {
+        height: 98px;
+    }
 }
