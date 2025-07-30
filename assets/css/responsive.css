@@ -61,12 +61,11 @@
     }
 
     .conversion-section {
-        background: url("../images/conversionimg.png");
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        position: relative;
         padding: 60px 20px;
+    }
+
+    .conversion-overlay h2 {
+        font-size: 38px;
     }
 }
 
