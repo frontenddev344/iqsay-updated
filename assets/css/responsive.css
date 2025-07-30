@@ -66,6 +66,19 @@
         font-size: 16px;
     }
 
+    .why_work_beta p {
+        font-size: 24px;
+    }
+
+    section.EqualWeb:after {
+        display: none;
+    }
+
+    .beta_one h2 {
+        font-size: 32px;
+        color: #4C4C4C;
+    }
+
     .icon_pra {
         font-size: 16px !important;
     }
