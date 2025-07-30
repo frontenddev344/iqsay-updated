@@ -365,4 +365,13 @@
     .alpha_one h1 {
         font-size: 32px;
     }
+
+    .standards h2 {
+        font-size: 28px;
+    }
+
+    .benefits {
+        gap: 10px;
+        margin-bottom: 0;
+    }
 }
