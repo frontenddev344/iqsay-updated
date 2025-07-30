@@ -62,6 +62,10 @@
         width: 98px;
     }
 
+    .icon_beta p {
+        font-size: 16px;
+    }
+
     .icon_pra {
         font-size: 16px !important;
     }
