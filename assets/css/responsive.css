@@ -18,4 +18,16 @@
     .team {
         font-size: 14px;
     }
+
+
+}
+
+@media screen and (max-width:991px) {
+    .desktop_version {
+        display: none;
+    }
+
+    .mobile_version {
+        display: block;
+    }
 }

@@ -89,6 +89,10 @@ img {
     position: relative;
 }
 
+.mobile_version {
+    display: none;
+}
+
 .iqsay:after {
     content: "";
     position: absolute;
