@@ -293,7 +293,7 @@
     }
 
     .alpha_two p {
-        font-size: 18px;
+        font-size: 16px;
         margin-bottom: 20px;
         color: #4C4C4C;
     }
@@ -356,5 +356,13 @@
 
     .btn {
         padding: 14px 12px;
+    }
+
+    .alpha_one h1 span {
+        font-size: 32px;
+    }
+
+    .alpha_one h1 {
+        font-size: 32px;
     }
 }
