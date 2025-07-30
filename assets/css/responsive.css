@@ -23,7 +23,7 @@
 }
 
 @media screen and (max-width:991px) {
-    .alpha_one {
+    .alpha_one, .alpha_two {
         width: 100%;
     }
 
