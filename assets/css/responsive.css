@@ -91,7 +91,12 @@
         align-items: center;
         gap: 20px;
         flex-wrap: wrap;
-        margin-bottom: 10px;
+        margin-bottom: 12px;
+    }
+
+    .footer-top span {
+       font-size: 14px;
+        color: #b7b7b7;
     }
 
     .footer-bottom p {
@@ -104,7 +109,7 @@
     .divider {
         width: 1px;
         height: 14px;
-        background-color: #aaa;
+        background-color: #b7b7b7;
     }
 
     .conversion-column {
