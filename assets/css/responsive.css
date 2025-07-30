@@ -98,7 +98,23 @@
 
     .conversion-grid {
         grid-template-columns: auto;
-        justify-items: start;
+        justify-items: center;
+    }
+
+    .conversion-box {
+        max-width: 600px;
+        text-align: left;
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        gap: 20px;
+        background: #fff;
+        border-radius: 100px;
+    }
+
+
+    .conversion-column {
+        gap: 12px;
     }
 
     .conversion-section {
