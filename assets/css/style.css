@@ -262,7 +262,6 @@ img {
 .benefits {
     display: flex;
     justify-content: space-around;
-    flex-wrap: wrap;
     gap: 30px;
     margin-bottom: 40px;
 }
