@@ -95,9 +95,10 @@
     }
 
     .footer-bottom p {
-        font-size: 13px;
+        font-size: 14px;
         margin: 0;
-        color: #ccc;
+        color: #b7b7b7;
+        text-align: center;
     }
 
     .divider {
