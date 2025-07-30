@@ -353,4 +353,8 @@
     .iqsay {
         padding: 40px 20px 20px;
     }
+
+    .btn {
+        padding: 14px 12px;
+    }
 }
