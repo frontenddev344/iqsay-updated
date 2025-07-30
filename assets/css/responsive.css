@@ -330,6 +330,13 @@
     .beta_one img {
         order: -1;
     }
+
+    .home_ban_arrow {
+        position: relative;
+        bottom: inherit;
+        width: 100%;
+        text-align: center;
+    }
 }
 
 @media screen and (max-width:575px) {

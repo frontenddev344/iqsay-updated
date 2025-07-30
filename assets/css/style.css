@@ -617,6 +617,12 @@ footer.footer.desktop_version {
     height: 1419px;
 }
 
+.ban_arrow {
+    position: absolute;
+    bottom: -30px;
+    z-index: 99;
+}
+
 header {
     background-image: url('../images/header.png');
     background-repeat: no-repeat;
