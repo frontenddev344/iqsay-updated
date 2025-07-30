@@ -84,4 +84,11 @@
     .compliance-logos {
         margin: 0px 0 52px;
     }
+
+    .standards h2 span {
+        color: #4c4c4c;
+    }
+    .standards h2  {
+       font-size: 32px;
+    }
 }
