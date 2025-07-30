@@ -67,6 +67,15 @@
     .conversion-overlay h2 {
         font-size: 38px;
     }
+
+    .conversion-column {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        margin-top: 85px;
+        gap: 50px;
+    }
 }
 
 @media screen and (max-width:991px) {
