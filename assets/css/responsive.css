@@ -84,6 +84,15 @@
         align-items: center;
     }
 
+    .conversion-overlay h2 {
+        font-size: 32px;
+    }
+
+    .conversion-grid {
+        grid-template-columns: auto;
+        justify-items: start;
+    }
+
     .conversion-section {
         background: #4C4C4C;
     }
