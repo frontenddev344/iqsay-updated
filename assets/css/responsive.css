@@ -340,4 +340,9 @@
         grid-template-columns: 1fr;
         gap: 20px !important;
     }
+
+    .beta_two {
+        flex-direction: column;
+        gap: 20px;
+    }
 }
