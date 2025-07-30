@@ -78,6 +78,11 @@
         display: none;
     }
 
+    .beta_one img {
+        max-width: 538px;
+        margin: 24px 0;
+    }
+
     .beta_one h2 {
         font-size: 32px;
         color: #4C4C4C;
