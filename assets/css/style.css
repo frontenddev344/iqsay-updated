@@ -577,6 +577,7 @@ section.Higher-Level {
 }
 
 .EqualWeb .buttons {
+    justify-content: center;
     text-align: center;
     margin-top: 0;
 }
