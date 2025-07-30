@@ -93,6 +93,8 @@
     .conversion-box img {
         width: 98px;
         margin-bottom: 0;
+        background: unset;
+        padding: 0;
     }
 
     .conversion-center-caption {
