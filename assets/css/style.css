@@ -572,6 +572,7 @@ section.Higher-Level {
 }
 
 .Higher-Level .buttons {
+    justify-content: center;
     text-align: center;
 }
 
