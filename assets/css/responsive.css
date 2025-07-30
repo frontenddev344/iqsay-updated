@@ -67,6 +67,11 @@
         margin-bottom: 12px;
     }
 
+    .audit-item img {
+        width: 98px;
+        box-shadow:unset;
+    }
+
     .advance_one h3 {
         font-size: 16px;
         margin: 24px 0;
