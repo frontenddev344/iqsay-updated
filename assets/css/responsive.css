@@ -35,6 +35,14 @@
     .compliance-logos {
         gap: 0px;
     }
+
+    .beta_one h2 {
+        font-size: 38px;
+    }
+
+    section.EqualWeb {
+        padding: 60px 20px;
+    }
 }
 
 @media screen and (max-width:991px) {
