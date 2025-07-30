@@ -31,6 +31,10 @@
     .icon_pra {
         font-size: 22px !important;
     }
+
+    .compliance-logos {
+        gap: 50px;
+    }
 }
 
 @media screen and (max-width:991px) {

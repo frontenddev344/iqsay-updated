@@ -246,9 +246,9 @@ img {
 }
 
 .compliance-logos img {
-    height: auto;
+    height: 127px;
+    object-fit: contain;
     width: 100%;
-    max-width: max-content;
     text-align: center;
     margin: 0 auto;
 }
