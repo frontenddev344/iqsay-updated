@@ -111,6 +111,7 @@
     .conversion-grid {
         grid-template-columns: auto;
         justify-items: center;
+        margin-top: 24px;
     }
 
     .conversion-box {
