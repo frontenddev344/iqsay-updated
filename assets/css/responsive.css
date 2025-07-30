@@ -210,4 +210,13 @@
     .standards h2 {
         font-size: 32px;
     }
+
+    .footer.mobile_version .footer-top {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .footer.mobile_version .divider {
+        display: none;
+    }
 }
