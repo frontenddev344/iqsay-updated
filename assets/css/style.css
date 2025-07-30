@@ -101,7 +101,7 @@ img {
     bottom: 0;
     width: 400px;
     height: 815px;
-    background-image: url(/assets/images/bigcircle.png);
+    background-image: url(../images/bigcircle.png);
     background-repeat: no-repeat;
     z-index: 999;
 }
