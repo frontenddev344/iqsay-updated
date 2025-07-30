@@ -91,10 +91,18 @@
         color: #4C4C4C;
     }
 
+    .Higher-Level:before {
+        display: none;
+    }
+
     .beta_one h2 {
         font-size: 32px;
         color: #4C4C4C;
         margin-bottom: 12px;
+    }
+
+    .Higher-Level .buttons {
+        display: none;
     }
 
     .icon_pra {
