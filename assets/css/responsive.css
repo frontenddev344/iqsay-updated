@@ -84,6 +84,10 @@
         align-items: center;
     }
 
+    .conversion-section {
+        background: #4C4C4C;
+    }
+
     .web_avail {
         background-image: unset;
     }
