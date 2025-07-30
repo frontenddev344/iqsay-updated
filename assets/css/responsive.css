@@ -33,7 +33,7 @@
     }
 
     .compliance-logos {
-        gap: 50px;
+        gap: 0px;
     }
 }
 
@@ -75,5 +75,13 @@
 
     .alpha_one h1 {
         margin-bottom: 14px;
+    }
+
+    .standards {
+        padding: 0px 20px;
+    }
+
+    .compliance-logos {
+        margin: 0px 0 52px;
     }
 }
