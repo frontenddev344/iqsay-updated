@@ -9,7 +9,7 @@
     }
 
     .alpha_one p {
-        font-size: 20px;
+        font-size: 18px;
         line-height: 30px;
         margin-bottom: 14px;
     }
@@ -19,7 +19,18 @@
         font-size: 14px;
     }
 
+    .standards p {
+        font-size: 18px;
+    }
 
+    .standards h2 {
+        font-size: 38px;
+        margin-bottom: 20px;
+    }
+
+    .icon_pra {
+        font-size: 22px !important;
+    }
 }
 
 @media screen and (max-width:991px) {
@@ -49,6 +60,7 @@
 
     .alpha_one img {
         max-width: 523px;
+        margin-bottom: 14px;
     }
 
     .alpha_two p {
