@@ -58,6 +58,11 @@
 }
 
 @media screen and (max-width:991px) {
+    .beta_one h2 {
+        font-size: 32px;
+        margin-bottom: 12px;
+    }
+
     .benefit img {
         width: 98px;
     }
