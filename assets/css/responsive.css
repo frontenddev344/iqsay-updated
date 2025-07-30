@@ -211,12 +211,15 @@
         font-size: 32px;
     }
 
-    .footer.mobile_version .footer-top {
+    .beta_one {
+        display: flex;
         flex-direction: column;
-        gap: 8px;
+        align-items: center;
+        text-align: center;
+        margin-bottom: 24px;
     }
 
-    .footer.mobile_version .divider {
-        display: none;
+    .beta_one img {
+        order: -1;
     }
 }
