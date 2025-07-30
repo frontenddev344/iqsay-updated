@@ -293,6 +293,8 @@ img {
     font-weight: 900 !important;
     text-transform: uppercase;
     line-height: 100%;
+    margin: 0 auto;
+    max-width: 900px;
 }
 
 
