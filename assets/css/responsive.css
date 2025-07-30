@@ -335,4 +335,9 @@
     .benefit {
         flex: unset;
     }
+
+    .compliance-logos {
+        grid-template-columns: 1fr;
+        gap: 20px !important;
+    }
 }
