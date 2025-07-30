@@ -23,7 +23,9 @@
 }
 
 @media screen and (max-width:991px) {
-    .alpha_one, .alpha_two {
+
+    .alpha_one,
+    .alpha_two {
         width: 100%;
     }
 
@@ -43,5 +45,14 @@
 
     .iqsay:after {
         display: none;
+    }
+
+    .alpha_one img {
+        max-width: 523px;
+    }
+
+    .alpha_one p {
+        font-size: 18px;
+        margin-bottom: 20px;
     }
 }
