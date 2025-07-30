@@ -95,6 +95,10 @@
         display: none;
     }
 
+    section.Higher-Level {
+        padding: 60px 20px;
+    }
+
     .beta_one h2 {
         font-size: 32px;
         color: #4C4C4C;
