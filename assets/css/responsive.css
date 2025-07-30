@@ -86,7 +86,7 @@
     }
 
     section.EqualWeb:before {
-       display: none;
+        display: none;
     }
 
     .footer-top {
@@ -348,5 +348,9 @@
     .beta_two {
         flex-direction: column;
         gap: 20px;
+    }
+
+    .iqsay {
+        padding: 40px 20px 20px;
     }
 }
