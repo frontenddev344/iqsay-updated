@@ -378,4 +378,8 @@
     .compliance-logos img {
         height: 98px;
     }
+
+    .conversion-overlay h2 {
+        font-size: 28px;
+    }
 }
