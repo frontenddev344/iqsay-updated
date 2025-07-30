@@ -396,6 +396,8 @@ img {
 .conversion-center-caption img {
     width: 112px;
     border-radius: 50%;
+    background: #ffffff17;
+    padding: 12px;
 }
 
 .conversion-center-caption p {
