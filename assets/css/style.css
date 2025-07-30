@@ -215,7 +215,7 @@ img {
     height: 174px;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(/assets/images/polygon.png);
+    background-image: url(../images/Polygon.png);
 }
 
 .standards h2 {
@@ -428,7 +428,7 @@ section.EqualWeb:after {
     top: 40%;
     height: 392px;
     width: 350px;
-    background-image: url(/assets/images/circle.png);
+    background-image: url(../images/circle.png);
     background-repeat: no-repeat;
 }
 
@@ -510,7 +510,7 @@ section.Higher-Level {
     top: 0;
     width: 300px;
     height: 100%;
-    background-image: url(/assets/images/dots\ 1.png);
+    background-image: url(../images/dots\ 1.png);
     background-repeat: no-repeat;
     background-size: 100%;
     z-index: 999;
