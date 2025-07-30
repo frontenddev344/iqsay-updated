@@ -436,6 +436,17 @@ section.EqualWeb:after {
     background-repeat: no-repeat;
 }
 
+section.EqualWeb:before {
+    content: "";
+    position: absolute;
+    left: 18%;
+    top: 30%;
+    height: 392px;
+    width: 350px;
+    background-image: url(../images/dots.png);
+    background-repeat: no-repeat;
+}
+
 .beta_one {
     text-align: center;
 }
